@@ -66,11 +66,9 @@ Ensure you have the following installed:
    git clone https://github.com/your-username/notes-app.git
 Navigate to the project directory:
 bash
-Копировать код
 cd notes-app
 Install dependencies:
 bash
-Копировать код
 npm install
 Start the frontend:
 bash
