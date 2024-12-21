@@ -74,14 +74,12 @@ Start the frontend:
 bash
 Копировать код
 npm start
-Start the backend (json-server):
-bash
-Копировать код
-npm run start:db
+Start the backend (json-server):  
+npm run start:db  
 Open your browser and navigate to http://localhost:5173.
 File Structure
-bash
-Копировать код
+
+
 src  
  ┣ components      # Reusable components (forms, buttons, etc.)  
  ┣ pages           # Page components (e.g., Login, Notes, etc.)  
